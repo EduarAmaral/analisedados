@@ -1,0 +1,21 @@
+Data,Produto,Vendedor,Quantidade,PrecoUnitario,CustoProduto
+2023-01-01,Produto A,Vendedor 1,10,25.0,10.0
+2023-01-01,Produto B,Vendedor 2,5,30.0,12.0
+2023-01-02,Produto A,Vendedor 1,8,25.0,10.0
+2023-01-02,Produto C,Vendedor 3,12,20.0,8.0
+2023-01-03,Produto B,Vendedor 2,7,30.0,12.0
+2023-01-03,Produto A,Vendedor 1,9,25.0,10.0
+2023-01-04,Produto C,Vendedor 3,10,20.0,8.0
+2023-01-04,Produto A,Vendedor 1,11,25.0,10.0
+2023-01-05,Produto B,Vendedor 2,6,30.0,12.0
+2023-01-05,Produto C,Vendedor 3,8,20.0,8.0
+2023-02-01,Produto A,Vendedor 1,7,25.0,10.0
+2023-02-01,Produto B,Vendedor 2,4,30.0,12.0
+2023-02-02,Produto A,Vendedor 1,10,25.0,10.0
+2023-02-02,Produto C,Vendedor 3,15,20.0,8.0
+2023-02-03,Produto B,Vendedor 2,6,30.0,12.0
+2023-02-03,Produto A,Vendedor 1,8,25.0,10.0
+2023-02-04,Produto C,Vendedor 3,9,20.0,8.0
+2023-02-04,Produto A,Vendedor 1,12,25.0,10.0
+2023-02-05,Produto B,Vendedor 2,5,30.0,12.0
+2023-02-05,Produto C,Vendedor 3,7,20.0,8.0
